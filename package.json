@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-transportstyrelsen-app",
+  "version": "1.0.0",
+  "description": "nodejs transportstyrelsen app",
+  "author": "euclidex <euclidex@fossid.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
